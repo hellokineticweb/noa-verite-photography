@@ -98,6 +98,15 @@ VITE_SITE_URL="https://github.com/hellokineticweb/noa-verite-photography"
 
 ---
 
+---
+
+## 🌐 Live Demonstration
+
+* **Production URL:** [https://studiocam-self.vercel.app](https://studiocam-self.vercel.app)
+* **GitHub Repository:** [https://github.com/hellokineticweb/noa-verite-photography](https://github.com/hellokineticweb/noa-verite-photography)
+
+---
+
 ## 🎨 Credits
 
 **Concept, design and development by Kinetic Web.**
